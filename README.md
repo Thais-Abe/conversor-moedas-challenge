@@ -24,29 +24,7 @@ Java 11 ou superior
 Maven
 Dependências do Spring Boot
 Acesso à API externa de conversão de moedas (por exemplo, ExchangeRate-API)
-# Como rodar a aplicação
-Clone este repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/currency-converter-app.git
-Acesse o diretório do projeto:
-bash
-Copiar código
-cd currency-converter-app
-Certifique-se de que você tenha o Java 11+ e o Maven instalados.
 
-Instale as dependências e execute a aplicação com o Maven:
-
-bash
-Copiar código
-mvn spring-boot:run
-Acesse a aplicação no navegador:
-arduino
-Copiar código
-http://localhost:8080
-Estrutura do Projeto
-Controller: Responsável por lidar com as requisições HTTP e fazer a integração com a API externa para conversão de moedas.
-Templates: Páginas HTML geradas com Thymeleaf para exibir a interface ao usuário.
 CSS: Arquivos de estilo para personalizar a aparência da aplicação.
 API Utilizada
 A aplicação utiliza a ExchangeRate-API para buscar as taxas de câmbio atualizadas.
