@@ -36,6 +36,8 @@ Melhorar o design da interface para dispositivos móveis.
 
 # Resultado
 
-https://github.com/user-attachments/assets/c0a20aa8-3d3d-4957-a720-7bb635d4c9bb
+https://github.com/user-attachments/assets/cc88abb1-4435-405a-a236-9a12596e4d11
+
+
 
 
