@@ -33,3 +33,9 @@ A aplicação utiliza a ExchangeRate-API para buscar as taxas de câmbio atualiz
 Implementar histórico de conversões realizadas.
 Adicionar suporte para múltiplas línguas.
 Melhorar o design da interface para dispositivos móveis.
+
+# Resultado
+
+https://github.com/user-attachments/assets/c0a20aa8-3d3d-4957-a720-7bb635d4c9bb
+
+
